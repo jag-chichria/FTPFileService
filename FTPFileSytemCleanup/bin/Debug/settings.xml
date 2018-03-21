@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FTPFileSystemCleanup>
+  <section name="Server">
+    <entry name="Deepti-pc\exinstance">
+    </entry>
+  </section>
+  <section name="Database">
+    <entry name="ffc">
+    </entry>
+  </section>
+  <section name="User">
+    <entry name="sa">
+    </entry>
+  </section>
+  <section name="Password">
+    <entry name="sql0112">
+    </entry>
+  </section>
+  <section name="DirectoryToScan">
+    <entry name="C:\Users\deepti\Pictures\">
+    </entry>
+  </section>
+  <section name="FileAgeLimit">
+    <entry name="35">
+    </entry>
+  </section>
+  <section name="ServiceExecuteEvery">
+    <entry name="1M">
+    </entry>
+  </section>
+</FTPFileSystemCleanup>

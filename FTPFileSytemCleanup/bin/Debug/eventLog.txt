@@ -1,0 +1,4 @@
+
+10/19/2011 4:42:47 PM: Error Occured: Access to the path 'C:\Users\deepti\Pictures\Picasa\Exported Videos' is denied.-scanCurrentFileSystem()
+10/19/2011 4:42:47 PM: Finished scanning current file system job @ 10/19/2011 4:42:47 PM and took 2 sec. -scanCurrentFileSystem()
+10/19/2011 4:42:47 PM: Finished job @ 10/19/2011 4:42:47 PM and took 8 sec(s). -OnElapsedTime()
